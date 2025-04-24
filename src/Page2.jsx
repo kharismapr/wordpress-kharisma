@@ -6,9 +6,9 @@ import CloudLogo from './assets/cloud.svg';
 
 export default function Page2() {
     return (
-        <div className="bg-white py-20">
+        <div className="bg-white py-20 px-8">
             {/* Header Section */}
-            <div className="container ml-10 px-4">
+            <div className="container px-4">
                 <h1 className="text-4xl md:text-5xl font-bold mb-4">Host with the best</h1>
                 <p className="text-lg md:text-xl mb-8">
                     When you create a site with WordPress.com, you get all of the power of lightning-fast, secure managed WordPress hosting.
